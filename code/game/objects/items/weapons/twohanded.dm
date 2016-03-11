@@ -60,7 +60,7 @@
 	icon_state = "fireaxe0"
 	hitsound = 'sound/weapons/bloodyslice.ogg'
 	name = "fire axe"
-	desc = "Truly, the weapon of a madman. Who would think to fight fire with an axe?"
+	desc = "Truly, the weapon of an absolute madman. Who would think to fight fire with an axe?"
 	w_class = 4.0
 	sharpness = 1.2
 	force = 10
