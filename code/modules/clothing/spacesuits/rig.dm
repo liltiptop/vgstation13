@@ -280,13 +280,13 @@
 	name = "stormtrooper helmet"
 	desc = "Now even more vulnerable to teddy bears!"
 	no_light = 1
-	flags = FPRINT  | PLASMAGUARD
+
 
 /obj/item/clothing/suit/space/rig/security/stormtrooper
 	icon_state = "rig-storm"
 	name = "stormtrooper hardsuit"
 	desc = "Even with the finest vision enhancement tech, you still can't hit shit."
-	flags = FPRINT  | PLASMAGUARD
+
 
 //Atmospherics Rig (BS12)
 /obj/item/clothing/head/helmet/space/rig/atmos
