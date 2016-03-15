@@ -5,7 +5,7 @@
 	icon_state = "paramedic-eva-helmet"
 	item_state = "paramedic-eva-helmet"
 	species_restricted = list("exclude","Vox")
-	flags = FPRINT  | PLASMAGUARD
+
 
 /obj/item/clothing/suit/space/paramedic
 	name = "Paramedic EVA suit"
@@ -14,14 +14,14 @@
 	desc = "A paramedic space suit. Used in the recovery of bodies from space."
 	species_restricted = list("exclude","Vox")
 	slowdown = 1
-	flags = FPRINT  | PLASMAGUARD
+
 
 //Space santa outfit suit
 /obj/item/clothing/head/helmet/space/santahat
 	name = "Santa's hat"
 	desc = "Ho ho ho. Merrry X-mas!"
 	icon_state = "santahat"
-	flags = FPRINT  | PLASMAGUARD
+
 
 /obj/item/clothing/suit/space/santa
 	name = "Santa's suit"
@@ -29,7 +29,7 @@
 	icon_state = "santa"
 	item_state = "santa"
 	slowdown = 0
-	flags = FPRINT  | ONESIZEFITSALL | PLASMAGUARD
+	flags = FPRINT  | ONESIZEFITSALL
 	allowed = list(/obj/item) //for stuffing exta special presents
 
 
