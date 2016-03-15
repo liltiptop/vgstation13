@@ -244,7 +244,7 @@
 	armor = list(melee = 10, bullet = 5, laser = 10, energy = 5, bomb = 10, bio = 100, rad = 50)
 	flags = FPRINT  | PLASMAGUARD
 	max_heat_protection_temperature = FIRESUIT_MAX_HEAT_PROTECTION_TEMPERATURE
-	flags = FPRINT  | PLASMAGUARD
+
 
 /obj/item/clothing/head/helmet/space/vox/civ/engineer/ce
 	name = "vox chief engineer pressure helmet"
@@ -252,7 +252,7 @@
 	desc = "A very alien-looking helmet for vox crewmembers. Has some radiation and heat protection."
 	flags = FPRINT  | PLASMAGUARD
 	max_heat_protection_temperature = FIRE_HELMET_MAX_HEAT_PROTECTION_TEMPERATURE
-	flags = FPRINT  | PLASMAGUARD
+
 
 //Science
 /obj/item/clothing/suit/space/vox/civ/science
