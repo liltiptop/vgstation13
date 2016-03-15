@@ -7,6 +7,7 @@
 	desc = "Has a tag on it: Totally not property of a hostile corporation, honest!"
 	armor = list(melee = 60, bullet = 50, laser = 30,energy = 15, bomb = 30, bio = 30, rad = 30)
 	siemens_coefficient = 0.8
+	flags = FPRINT  | PLASMAGUARD
 
 /obj/item/clothing/suit/space/syndicate
 	name = "red space suit"
@@ -19,7 +20,7 @@
 	slowdown = 1
 	armor = list(melee = 60, bullet = 50, laser = 30,energy = 15, bomb = 30, bio = 30, rad = 30)
 	siemens_coefficient = 0.8
-
+	flags = FPRINT  | PLASMAGUARD
 
 //Green syndicate space suit
 /obj/item/clothing/head/helmet/space/syndicate/green
